@@ -1,4 +1,4 @@
-# Task Manager
+# RaccoonPerson
 
 Uma aplicação de gerenciamento de tarefas desenvolvida em Java, com o objetivo de praticar conceitos de estrutura de dados e CRUD em uma API RESTful. O projeto implementa funcionalidades para criar, atualizar, visualizar e remover tarefas, além de histórico de alterações, notificações e categorização de tarefas.
 
