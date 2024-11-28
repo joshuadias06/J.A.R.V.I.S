@@ -1,6 +1,6 @@
-# J.A.R.V.I.S
+# J.A.R.V.I.S.
 
-J.A.R.V.I.S é uma aplicação de gerenciamento de tarefas e informações pessoais desenvolvida em Java. O objetivo do projeto é praticar conceitos de estrutura de dados e CRUD em uma API RESTful, além de fornecer uma maneira centralizada de gerenciar tarefas, finanças pessoais, progresso em jogos e mais; Em resumo é o meu assistente pessoal.
+J.A.R.V.I.S. é uma aplicação de gerenciamento de tarefas e informações pessoais desenvolvida em Java. O objetivo do projeto é praticar conceitos de estrutura de dados e CRUD em uma API RESTful, além de fornecer uma maneira centralizada de gerenciar tarefas, finanças pessoais, progresso em jogos e mais; Em resumo é o meu assistente pessoal.
 
 A aplicação integra diferentes funcionalidades para organizar a vida do usuário, como gerenciamento de tarefas, histórico de alterações, categorização, notificações, e agora, inclui um sistema de carteira e um login para transitar entre as funcionalidades do *Task Manager* e *Wallet*.
 
@@ -26,7 +26,7 @@ O projeto utiliza diversas estruturas de dados para organizar e gerenciar as inf
 
 ## Visão Futura
 
-J.A.R.V.I.S é uma aplicação em constante evolução. A próxima fase do desenvolvimento incluirá a integração com outros módulos de gestão pessoal, como progresso em jogos e uma biblioteca de jogos concluídos. A ideia é oferecer uma plataforma centralizada para controlar várias áreas da vida do usuário, mantendo todas as informações acessíveis em um único lugar.
+J.A.R.V.I.S. é uma aplicação em constante evolução. A próxima fase do desenvolvimento incluirá a integração com outros módulos de gestão pessoal, como progresso em jogos e uma biblioteca de jogos concluídos. A ideia é oferecer uma plataforma centralizada para controlar várias áreas da vida do usuário, mantendo todas as informações acessíveis em um único lugar.
 
 ---
 **Desenvolvedor**: Joshua Dias
