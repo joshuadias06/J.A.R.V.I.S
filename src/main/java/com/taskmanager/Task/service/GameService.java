@@ -33,6 +33,11 @@ public class GameService {
         return gameRepository.findById(id);
     }
 
+    //READ: Lista todos os jogos pelo progresso.
+    public List<Game> getGameByProgress(Integer progress){
+        return gameRepository.findByProgress(progress);
+    }
+
     //UPDATE: Atualiza um jogo existente.
     public Game updateGame(Long id, Game gameDetails){
         if(gameRepository.existsById(id)){

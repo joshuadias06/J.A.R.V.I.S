@@ -23,5 +23,7 @@ public class Game {
     private String name;
     private String description;
     private String image;
-    private String progress;
+    private Integer progress;
+    private String status;
+    private String earnings;
 }
