@@ -19,7 +19,7 @@ public class UserStart implements CommandLineRunner {
             defaultUser.setUsername("joshuadp14");
             defaultUser.setPassword("queren23012023");
             userRepository.save(defaultUser);
-            System.out.println("Usuário padrão criado: admin/admin123");
+            System.out.println("Usuário padrão criado: U$&R/*******");
         }
     }
 }
